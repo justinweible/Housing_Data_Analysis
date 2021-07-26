@@ -17,22 +17,22 @@ Location, the year that the house was built, number of bedrooms, number of bathr
 
 ### Proximity to Downtown 
 Each mile out of the city reduces the price of the house by approximately $10,400.
-![alt text](https://flatiron-school.slack.com/files/U01TG3VN6MP/F027JFFCB42/price_v_distance.png)
+![image](Images/price_v_distance.png)
 
 ### Year Built
 The age of the house decreases the value by approximately $1,172 per year. 
-![alt text](https://files.slack.com/files-pri/T02MD9XTF-F027HQY4LKF/grade_v_age.png)
+![image](Images/grade_v_age.png)
 
 ### Number of Bedrooms
 Each bedroom adds an approximate value of $15,580
-![alt text](https://flatiron-school.slack.com/files/U01TG3VN6MP/F027JFQDW8J/location_price_bedroom_overall.png)
+![image](Images/location_price_bedroom_overall.png)
 
 ### Number of Bathrooms
 Each Bathroom adds an approximate value of $15,660
 
 ### Square Footage
 Each squarefoot adds an approximate value of $115.84
-![alt text](https://flatiron-school.slack.com/files/U01TG3VN6MP/F027FF36DNZ/location_price_sqft_overall.png)
+![image](Images/location_price_sqft_overall.png)
 
 ## Conclusions:
 The closer the house a house is to downtown, the more expensive it'll be. Within the two categories of within 5 miles of downtown and more than 5 mile sfrom downtown, it is clear the affect that squarefootage, bedrooms, bathrooms, and year built have  on the price. (See images and analysis above.)
