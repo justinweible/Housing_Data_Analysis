@@ -11,6 +11,8 @@
 
 ## [Data Source]: https://www.kaggle.com/harlfoxem/housesalesprediction
 
+## Model
+Our model was able to predict 63.7% of the variance in housing prices with an error of 118,646. The training and test data performed similarly (.64 and .63 respectively). 
 
 ## Analysis:
 Location, the year that the house was built, number of bedrooms, number of bathrooms, square footage, grade, whether or not it is a waterfront property and whether or not it was renovated all proved to be key components to determining the price of the house.
